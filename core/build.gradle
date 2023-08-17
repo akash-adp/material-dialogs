@@ -38,4 +38,4 @@ dependencies {
     implementation 'me.zhanghai.android.materialprogressbar:library:' + versions.mdProgressBar
 }
 
-apply from: 'https://raw.githubusercontent.com/afollestad/aidanfollestad.com/master/android-lib-release.gradle'
+//apply from: 'https://raw.githubusercontent.com/afollestad/aidanfollestad.com/master/android-lib-release.gradle'
